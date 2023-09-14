@@ -1,0 +1,58 @@
+{
+    "menuList": [
+        {
+            "foodId": 1,
+            "title": "The Mixed Green Salad",
+            "subTitle": "Fresh cut hearts of romaine lettuce tossed with our caesar",
+            "amount": 14.50,
+            "currency": "dollar",
+            "type": "veg",
+            "imageUrl": null 
+        },
+        {
+            "foodId": 2,
+            "title": "Wagyu Kobe Short Rib",
+            "subTitle": "",
+            "amount": 14,
+            "currency": "dollar",
+            "type": "non-veg",
+            "imageUrl": null 
+        },
+        {
+            "foodId": 3,
+            "title": "Cucumber Salad",
+            "subTitle": "Fresh cut hearts of romaine lettuce tossed with our caesar",
+            "amount": 15.50,
+            "currency": "dollar",
+            "type": "veg",
+            "imageUrl": null 
+        },
+        {
+            "foodId": 4,
+            "title": "The Mixed Green Salad",
+            "subTitle": "Fresh cut hearts of romaine lettuce tossed with our caesar",
+            "amount": 14.50,
+            "currency": "dollar",
+            "type": "veg",
+            "imageUrl": null 
+        },
+        {
+            "foodId": 5,
+            "title": "Wagyu Kobe Short Rib",
+            "subTitle": "",
+            "amount": 14,
+            "currency": "dollar",
+            "type": "non-veg",
+            "imageUrl": null 
+        },
+        {
+            "foodId": 6,
+            "title": "Cucumber Salad",
+            "subTitle": "Fresh cut hearts of romaine lettuce tossed with our caesar",
+            "amount": 15.50,
+            "currency": "dollar",
+            "type": "veg",
+            "imageUrl": null 
+        }
+    ]
+}
